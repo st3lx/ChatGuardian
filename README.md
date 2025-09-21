@@ -1,5 +1,5 @@
 # ChatGuardian
-Accidentally deleted you chat history? Went to check a file but found it's outdated? Try out ChatGuardian: <br>
+Accidentally deleted your chat history? Went to check a file or picture but found it's outdated? Try out ChatGuardian: <br>
 A desktop app to proactively archive and retroactively recover WeChat, Whatsapp, Telegram, Discord, [basically any app you want to add] messages &amp; media from local device backups. <br>
 
 **It WILL Work / Is Designed For** <br>
